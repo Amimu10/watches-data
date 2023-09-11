@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Smartwatch Model 1",
+    "price": 149.99
+  },
+  {
+    "id": 2,
+    "name": "Smartwatch Model 2",
+    "price": 199.99
+  },
+  {
+    "id": 3,
+    "name": "Smartwatch Model 3",
+    "price": 129.95
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch Model 4",
+    "price": 179.99
+  },
+  {
+    "id": 5,
+    "name": "Smartwatch Model 5",
+    "price": 159.99
+  },
+  {
+    "id": 6,
+    "name": "Smartwatch Model 6",
+    "price": 139.95
+  },
+  {
+    "id": 7,
+    "name": "Smartwatch Model 7",
+    "price": 169.99
+  },
+  {
+    "id": 8,
+    "name": "Smartwatch Model 8",
+    "price": 149.99
+  },
+  {
+    "id": 9,
+    "name": "Smartwatch Model 9",
+    "price": 189.95
+  },
+  {
+    "id": 10,
+    "name": "Smartwatch Model 10",
+    "price": 149.99
+  },
+  {
+    "id": 11,
+    "name": "Smartwatch Model 11",
+    "price": 179.95
+  },
+  {
+    "id": 12,
+    "name": "Smartwatch Model 12",
+    "price": 199.99
+  },
+  {
+    "id": 13,
+    "name": "Smartwatch Model 13",
+    "price": 159.95
+  },
+  {
+    "id": 14,
+    "name": "Smartwatch Model 14",
+    "price": 139.99
+  },
+  {
+    "id": 15,
+    "name": "Smartwatch Model 15",
+    "price": 149.95
+  },
+  {
+    "id": 16,
+    "name": "Smartwatch Model 16",
+    "price": 129.99
+  },
+  {
+    "id": 17,
+    "name": "Smartwatch Model 17",
+    "price": 169.99
+  },
+  {
+    "id": 18,
+    "name": "Smartwatch Model 18",
+    "price": 179.95
+  },
+  {
+    "id": 19,
+    "name": "Smartwatch Model 19",
+    "price": 189.99
+  },
+  {
+    "id": 20,
+    "name": "Smartwatch Model 20",
+    "price": 199.95
+  }
+]
